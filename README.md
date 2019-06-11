@@ -8,7 +8,7 @@
 
 #### 1.登录校验
 提供了基于姓名+手机号的身份校验，一定程度保护通讯录数据安全
-![身份验证](http://md-pics.oss-cn-beijing.aliyuncs.com/github/20190611232808.png)
+![身份验证](images/20190611232808.png)
 #### 2.通讯录查看
 列表查看
 ![列表查看](http://md-pics.oss-cn-beijing.aliyuncs.com/github/20190611232827.png)
