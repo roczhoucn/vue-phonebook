@@ -1,7 +1,7 @@
 # phonebook
 
 > A Simple h5 address book based on Vuejs and Vux
-> 一个基于VueJs 及 VUX实现的简易H5 纯前端通讯录
+> 一个基于VueJs 及 VUX实现的简易H5 纯前端通讯录  
 > Demo: [http://phonebook.roczhou.cn](http://phonebook.roczhou.cn)
 
 ## Description
