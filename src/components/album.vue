@@ -59,7 +59,7 @@ export default {
   data() {
     return {
       tabList: ["通讯录", "相册"],
-      tabChoice: "班级相册",
+      tabChoice: "相册",
       dataList: [],
       currentPage: 1,
       pageSize: 10,
